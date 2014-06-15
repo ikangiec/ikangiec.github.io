@@ -2,10 +2,10 @@
 layout: page
 permalink: /about/
 title: about 小点滴
-tags: 
+tags:
   - bio
   - me
-image: 
+image:
   feature: "abstract-5.jpg"
   "<!-- credit": "dargadgetz -->"
   "<!-- creditlink": "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/ -->"
@@ -25,4 +25,4 @@ published: true
 
 > Name: kangie chan 曾瀞仪<br>
 Location: seattle, wa 西雅图<br>
-Website: http://ikangiec.github.io/
+Website: [http://ikangiec.github.io/](http://ikangiec.github.io/)
