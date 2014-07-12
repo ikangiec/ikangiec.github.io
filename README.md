@@ -1,6 +1,6 @@
 # MyVoice
 
-My first personal blog hosted on github. More to come later!
+My first personal blog hosted on github. More to come later! Can use prose.io to edit the content!
 
 ## What I bring to the table:
 
