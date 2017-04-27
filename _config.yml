@@ -47,8 +47,8 @@ links:
 timezone:    America/Los_Angeles
 encoding:    UTF-8
 future:      true
-# pygments: true
-highlighter: pygments
+# pygments: false
+highlighter: rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
